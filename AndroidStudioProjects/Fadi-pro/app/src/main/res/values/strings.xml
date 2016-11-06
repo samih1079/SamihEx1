@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fadi-pro</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signin">Signin</string>
+    <string name="title_activity_vaccinations">vaccinations</string>
+    <string name="title_activity_add_vacs">AddVACsActivity</string>
+    <string name="title_activity_client_management">ClientManagement</string>
+    <string name="title_activity_management">Management</string>
+    <string name="title_activity_turns">Turns</string>
+    <string name="title_activity_client_man">ClientMan</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_animal_mng">AnimalMngActivity</string>
+</resources>
